@@ -1,10 +1,14 @@
 import ReactDOM from 'react-dom';
-import './content.styl'
+import Main from "./application/Main";
+import './style.css'
 
 function Content () {
   return (
     <div className={'CRX-content'}>
       <div className="content-entry"></div>
+      <div className="edit-panel">
+        <Main />
+      </div>
     </div>
   )
 }
