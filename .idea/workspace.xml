@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ce51490-fd2b-467e-8fac-b24bf964534c" name="变更" comment="#">
-      <change afterPath="$PROJECT_DIR$/src/common/icon/add-note.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/icon/arrow-left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/icon/delete.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/icon/drag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/App.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/application/Main/context.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/application/Main/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/application/Main/index.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/components/Collection/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/components/Collection/index.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/components/CollectionList/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/components/ItemList/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/components/ItemList/index.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/components/Note/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/components/Note/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/components/RichText/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/components/RichText/index.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/initial-data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/content.styl" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -107,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644378120317</updated>
       <workItem from="1644378124450" duration="18506000" />
+      <workItem from="1644456172463" duration="15175000" />
     </task>
     <task id="LOCAL-00001" summary="#">
       <created>1644380667918</created>
